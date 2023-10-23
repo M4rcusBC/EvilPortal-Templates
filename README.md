@@ -3,6 +3,8 @@
 
 A curated collection of EvilPortal templates tailored for ESP32 Marauder software. Compatible with FlipperZero and other platforms.
 
+View the *'info.md'* file for each respective directory for more information.
+
 ## Features
 
 - Curated EvilPortal templates.
@@ -19,9 +21,7 @@ Navigate to the desired template directory and follow the specific installation 
 
 ## Usage
 
-1. Load the template onto your ESP32 Marauder device.
-2. Deploy the EvilPortal.
-3. Manage captured data.
+Load the template onto your ESP32 Marauder device in its appropriate location, along with any dependent files, if supported. Templates will contain required assets if applicable
 
 ## Contributing
 
